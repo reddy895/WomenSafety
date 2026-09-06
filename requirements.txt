@@ -1,0 +1,15 @@
+# Core Deep Learning & Computer Vision
+ultralytics>=8.0.0
+lapx>=0.5.5
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Terminal UI & Telemetry
+rich>=13.0.0
+
+# Configuration & Environment
+python-dotenv>=1.0.0
+
+# Networking & WhatsApp Dispatch
+requests>=2.28.0
+twilio>=8.0.0
